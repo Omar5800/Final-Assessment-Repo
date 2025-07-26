@@ -1,2 +1,2 @@
-project="Forky Forkey nigga"
+project="Well played"
 print(project)
